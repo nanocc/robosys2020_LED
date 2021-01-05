@@ -23,8 +23,8 @@
 
 - 以下のコマンドを順に実行
 ```
-$ git clone https://github.com/nanocc/robosys2020_myLED.git
-$ cd robosys2020_myLED
+$ git clone https://github.com/nanocc/robosys2020_LED.git
+$ cd robosys2020_LED
 $ make
 $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0
