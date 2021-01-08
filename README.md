@@ -66,4 +66,4 @@ $ make clean
 https://www.youtube.com/watch?v=uLWVqd7iy64
 
 ## ライセンス
-[GNU General Public License v3.0](https://github.com/nanocc/robosys2020_myLED/blob/main/COPYING)
+[GNU General Public License v3.0](https://github.com/nanocc/robosys2020_LED/blob/main/COPYING)
